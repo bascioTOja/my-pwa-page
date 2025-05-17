@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pwa.bascio.dev/sitemap.xml
